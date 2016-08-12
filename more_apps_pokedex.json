@@ -2,37 +2,37 @@
     "items": [{
               "name": "iCurrency",
               "urlItunes": "https://itunes.apple.com/app/id1054842862",
-              "urlImage": "http://www.ledego.com/icon_app/icurrency.png",
+              "urlImage": "http://www.ledego.com/apps/icon_app/icurrency.png",
               "description": "Easy Currency Converter & Exchange Rates"
               },
               {
               "name": "Contacts Cleaner Pro",
               "urlItunes": "https://itunes.apple.com/app/id1069835327",
-              "urlImage": "http://www.ledego.com/icon_app/contacts_cleaner_pro.png",
+              "urlImage": "http://www.ledego.com/apps/icon_app/contacts_cleaner_pro.png",
               "description": "Help you to quickly backup address book, remove duplicate contacts"
               },
               {
               "name": "Ant Legend",
               "urlItunes": "https://itunes.apple.com/app/id1035127262",
-              "urlImage": "http://www.ledego.com/icon_app/antlegend.png",
+              "urlImage": "http://www.ledego.com/apps/icon_app/antlegend.png",
               "description": "Ant Legend"
               },
               {
               "name": "PocketMoney",
               "urlItunes": "https://itunes.apple.com/app/id1125633343",
-              "urlImage": "http://www.ledego.com/icon_app/pocketmoney.png",
+              "urlImage": "http://www.ledego.com/apps/icon_app/pocketmoney.png",
               "description": "Account, Budget, Bill, Checkbook and Cashflow Manager"
               },
               {
               "name": "WeSay",
               "urlItunes": "https://itunes.apple.com/app/id1017975513",
-              "urlImage": "http://www.ledego.com/icon_app/wesay.png",
+              "urlImage": "http://www.ledego.com/apps/icon_app/wesay.png",
               "description": "No need keyboard,let's say!"
               },
               {
               "name": "Emoji & Emoticon Keyboard",
               "urlItunes": "https://itunes.apple.com/app/id1061507392",
-              "urlImage": "http://www.ledego.com/icon_app/emojikeyboard.png",
+              "urlImage": "http://www.ledego.com/apps/icon_app/emojikeyboard.png",
               "description": "Possible the best emoji keyboard."
               }
              ]
