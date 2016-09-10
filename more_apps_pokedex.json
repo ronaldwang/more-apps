@@ -2,37 +2,43 @@
     "items": [{
               "name": "iCurrency",
               "urlItunes": "https://itunes.apple.com/app/id1054842862",
-              "urlImage": "http://133.242.161.43/icon_app/icurrency.png",
-              "description": "Easy Currency Converter & Exchange Rates"
+              "urlImage": "http://133.242.161.43/apps/icon_app/icurrency.png",
+              "description": "Best Currency Converter & Exchange Rates"
               },
               {
               "name": "Contacts Cleaner Pro",
               "urlItunes": "https://itunes.apple.com/app/id1069835327",
-              "urlImage": "http://133.242.161.43/icon_app/contacts_cleaner_pro.png",
-              "description": "Help you to quickly backup address book, remove duplicate contacts"
-              },
-              {
-              "name": "Ant Legend",
-              "urlItunes": "https://itunes.apple.com/app/id1035127262",
-              "urlImage": "http://133.242.161.43/icon_app/antlegend.png",
-              "description": "Ant Legend"
+              "urlImage": "http://133.242.161.43/apps/icon_app/contacts_cleaner_pro.png",
+              "description": "Backup and remove duplicate contacts"
               },
               {
               "name": "PocketMoney",
               "urlItunes": "https://itunes.apple.com/app/id1125633343",
-              "urlImage": "http://133.242.161.43/icon_app/pocketmoney.png",
+              "urlImage": "http://133.242.161.43/apps/icon_app/pocketmoney.png",
               "description": "Account, Budget, Bill, Checkbook and Cashflow Manager"
               },
               {
-              "name": "WeSay",
-              "urlItunes": "https://itunes.apple.com/app/id1017975513",
-              "urlImage": "http://133.242.161.43/icon_app/wesay.png",
-              "description": "No need keyboard,let's say!"
+              "name": "Pokedex Guide for Pokemon GO",
+              "urlItunes": "https://itunes.apple.com/app/id1150166745",
+              "urlImage": "http://133.242.161.43/apps/icon_app/pokedex.png",
+              "description": "Best English-French-Spanish-Italian Pokedex Guide!"
+              },
+              {
+              "name": "Bricks 3D Manual",
+              "urlItunes": "https://itunes.apple.com/app/id1143545151",
+              "urlImage": "http://133.242.161.43/apps/icon_app/bricks.png",
+              "description": "More than 500 LEGO instructions!"
+              },
+              {
+              "name": "Let's draw everything",
+              "urlItunes": "https://itunes.apple.com/app/id1148290515",
+              "urlImage": "http://133.242.161.43/apps/icon_app/draw.png",
+              "description": "More Than 4000 Lessons!"
               },
               {
               "name": "Emoji & Emoticon Keyboard",
               "urlItunes": "https://itunes.apple.com/app/id1061507392",
-              "urlImage": "http://133.242.161.43/icon_app/emojikeyboard.png",
+              "urlImage": "http://133.242.161.43/apps/icon_app/emojikeyboard.png",
               "description": "Possible the best emoji keyboard."
               }
              ]
