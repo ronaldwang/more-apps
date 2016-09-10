@@ -3,7 +3,7 @@
               "name": "iCurrency",
               "urlItunes": "https://itunes.apple.com/app/id1054842862",
               "urlImage": "http://133.242.161.43/apps/icon_app/icurrency.png",
-              "description": "Easy Currency Converter & Exchange Rates"
+              "description": "Best Currency Converter & Exchange Rates"
               },
               {
               "name": "Contacts Cleaner Pro",
@@ -12,22 +12,28 @@
               "description": "Help you to quickly backup address book, remove duplicate contacts"
               },
               {
-              "name": "Bricks 3D Manual",
-              "urlItunes": "https://itunes.apple.com/app/id1143545151",
-              "urlImage": "http://133.242.161.43/apps/icon_app/bricks.png",
-              "description": "More than 500 instructions!"
-              },
-              {
               "name": "PocketMoney",
               "urlItunes": "https://itunes.apple.com/app/id1125633343",
               "urlImage": "http://133.242.161.43/apps/icon_app/pocketmoney.png",
               "description": "Account, Budget, Bill, Checkbook and Cashflow Manager"
               },
               {
-              "name": "WeSay",
-              "urlItunes": "https://itunes.apple.com/app/id1017975513",
-              "urlImage": "http://133.242.161.43/apps/icon_app/wesay.png",
-              "description": "No need keyboard,let's say!"
+              "name": "Pokedex Guide for Pokemon GO",
+              "urlItunes": "https://itunes.apple.com/app/id1150166745",
+              "urlImage": "http://133.242.161.43/apps/icon_app/pokedex.png",
+              "description": "Best English-French-Spanish-Italian Pokedex Guide!"
+              },
+              {
+              "name": "Bricks 3D Manual",
+              "urlItunes": "https://itunes.apple.com/app/id1143545151",
+              "urlImage": "http://133.242.161.43/apps/icon_app/bricks.png",
+              "description": "More than 500 LEGO instructions!"
+              },
+              {
+              "name": "Let's draw everything",
+              "urlItunes": "https://itunes.apple.com/app/id148290515",
+              "urlImage": "http://133.242.161.43/apps/icon_app/draw.png",
+              "description": "Draw very easy!"
               },
               {
               "name": "Emoji & Emoticon Keyboard",
