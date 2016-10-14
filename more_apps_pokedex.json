@@ -1,12 +1,6 @@
 {
     "items": [
               {
-              "name": "MyPoke",
-              "urlItunes": "https://itunes.apple.com/app/id1142394834",
-              "urlImage": "http://133.242.161.43/apps/icon_app/mypoke.png",
-              "description": "A Offline Pokedex Guide for Pokemon GO"
-              },
-              {
               "name": "Contacts Cleaner Pro",
               "urlItunes": "https://itunes.apple.com/app/id1069835327",
               "urlImage": "http://133.242.161.43/apps/icon_app/contacts_cleaner_pro.png",
