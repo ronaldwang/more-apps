@@ -1,10 +1,5 @@
 {
-    "items": [{
-              "name": "iCurrency",
-              "urlItunes": "https://itunes.apple.com/app/id1054842862",
-              "urlImage": "http://133.242.161.43/apps/icon_app/icurrency.png",
-              "description": "Best Currency Converter & Exchange Rates"
-              },
+    "items": [
               {
               "name": "Contacts Cleaner Pro",
               "urlItunes": "https://itunes.apple.com/app/id1069835327",
@@ -18,7 +13,7 @@
               "description": "Account, Budget, Bill, Checkbook and Cashflow Manager"
               },
               {
-              "name": "Pokedex Guide for Pokemon GO",
+              "name": "PokePro-Pokedex Guide for Pokemon",
               "urlItunes": "https://itunes.apple.com/app/id1150166745",
               "urlImage": "http://133.242.161.43/apps/icon_app/pokedex.png",
               "description": "Best English-French-Spanish-Italian Pokedex Guide!"
