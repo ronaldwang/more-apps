@@ -1,5 +1,12 @@
 {
-    "items": [{
+    "items": [
+              {
+              "name": "Super Emoji Run",
+              "urlItunes": "https://itunes.apple.com/app/id1202500691",
+              "urlImage": "http://133.242.161.43/apps/icon_app/emojirun.png",
+              "description": "Make Emoji great again!"
+              },        
+             {
               "name": "iCurrency",
               "urlItunes": "https://itunes.apple.com/app/id1054842862",
               "urlImage": "http://133.242.161.43/apps/icon_app/icurrency.png",
