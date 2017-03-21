@@ -1,6 +1,12 @@
 {
     "items": [
               {
+              "name": "Super Emoji Run",
+              "urlItunes": "https://itunes.apple.com/app/id1202500691",
+              "urlImage": "http://133.242.161.43/apps/icon_app/emojirun.png",
+              "description": "Make Emoji great again!"
+              },        
+              {
               "name": "Contacts Cleaner Pro",
               "urlItunes": "https://itunes.apple.com/app/id1069835327",
               "urlImage": "http://133.242.161.43/apps/icon_app/contacts_cleaner_pro.png",
