@@ -6,17 +6,29 @@
               "urlImage": "http://133.242.161.43/apps/icon_app/emojirun.png",
               "description": "Make Emoji great again!"
               },        
-             {
-              "name": "iCurrency",
-              "urlItunes": "https://itunes.apple.com/app/id1054842862",
-              "urlImage": "http://133.242.161.43/apps/icon_app/icurrency.png",
-              "description": "Best Currency Converter & Exchange Rates"
-              },
               {
               "name": "Contacts Cleaner Pro",
               "urlItunes": "https://itunes.apple.com/app/id1069835327",
               "urlImage": "http://133.242.161.43/apps/icon_app/contacts_cleaner_pro.png",
               "description": "Backup and remove duplicate contacts"
+              },
+              {
+              "name": "TOEFL Listening-TOEFL Plan",
+              "urlItunes": "https://itunes.apple.com/app/id1155986212",
+              "urlImage": "http://133.242.161.43/apps/icon_app/toefllistening.png",
+              "description": "All Sets of TPO Listening,Concise and powerful"
+              },
+              {
+              "name": "TOEIC Listening Test Pro",
+              "urlItunes": "https://itunes.apple.com/app/toeic-listening-test-pro-toeic/id1192291295",
+              "urlImage": "http://133.242.161.43/apps/icon_app/toeiclistening.png",
+              "description": "All old exam papers in listening,Concise and powerful"
+              },
+              {
+              "name": "JLPT N1 Listening Pro-日本語能力試験",
+              "urlItunes": "https://itunes.apple.com/app/toeic-listening-test-pro-toeic/id1192291295",
+              "urlImage": "http://133.242.161.43/apps/icon_app/n1listening.png",
+              "description": "All old exam papers in listening,Concise and powerful"
               },
               {
               "name": "PocketMoney",
@@ -25,34 +37,9 @@
               "description": "Account, Budget, Bill, Checkbook and Cashflow Manager"
               },
               {
-              "name": "Pokedex Guide for Pokemon GO",
-              "urlItunes": "https://itunes.apple.com/app/id1150166745",
-              "urlImage": "http://133.242.161.43/apps/icon_app/pokedex.png",
-              "description": "Best English-French-Spanish-Italian Pokedex Guide!"
-              },
-              {
-              "name": "Bricks 3D Manual",
-              "urlItunes": "https://itunes.apple.com/app/id1143545151",
-              "urlImage": "http://133.242.161.43/apps/icon_app/bricks.png",
-              "description": "More than 500 LEGO instructions!"
-              },
-              {
-              "name": "Clay Characters for Kids HD",
-              "urlItunes": "https://itunes.apple.com/app/id1143545151",
-              "urlImage": "http://133.242.161.43/apps/icon_app/clay.png",
-              "description": "More than 100 instructions!"
-              },
-              {
-              "name": "Let's draw everything",
-              "urlItunes": "https://itunes.apple.com/app/id1148290515",
-              "urlImage": "http://133.242.161.43/apps/icon_app/draw.png",
-              "description": "More Than 4000 Lessons!"
-              },
-              {
               "name": "Emoji & Emoticon Keyboard",
               "urlItunes": "https://itunes.apple.com/app/id1061507392",
               "urlImage": "http://133.242.161.43/apps/icon_app/emojikeyboard.png",
               "description": "Possible the best emoji keyboard."
               }
-             ]
 }
